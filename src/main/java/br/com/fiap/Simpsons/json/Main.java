@@ -1,3 +1,7 @@
+// CRISTIAN CAJA RODRIGUES  RM: 558502
+// IGOR WERNERCK  RM: RM558395
+
+
 package br.com.fiap.Simpsons.json;
 
 import br.com.fiap.Simpsons.model.Personagem;
